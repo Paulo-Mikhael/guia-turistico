@@ -1,0 +1,13 @@
+@media screen and (max-width:1440px){
+    main{
+        width: 98.7vw;
+    }
+    section#main-text{
+        width: 98.7vw;
+    }
+}
+@media screen and (max-height:950px){
+    main{
+        height: 112vh;
+    }
+}
