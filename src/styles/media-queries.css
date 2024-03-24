@@ -8,6 +8,9 @@
     section#touristic-points{
         width: 98.7vw;
     }
+    section#time-line{
+        width: 98.7vw;
+    }
 }
 @media screen and (max-height:950px){
     main{
