@@ -11,6 +11,9 @@
     section#time-line{
         width: 98.7vw;
     }
+    section#comments{
+        width: 98.7vw;
+    }
 }
 @media screen and (max-height:950px){
     main{

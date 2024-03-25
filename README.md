@@ -10,11 +10,11 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 <h2>Outros Links 🔗</h2>
-    <a href="https://paulo-mikhael.github.io/Portifolio">Portifolio</a><br>
-    <a href="https://drive.google.com/drive/folders/1ER7n3GHZmokEsQJkf6yFAG3E0dC1oLfq?usp=drive_link">Currículo (png, jpg, svg e pdf)</a><br>
-    <a href="https://drive.google.com/drive/folders/1iK5EJFMF0tOjTNEK88JdfiFZI1oFZmBf?usp=drive_link">Design da página (png, jpg, svg e pdf)</a>
+    <a target="_blank" href="https://paulo-mikhael.github.io/Portifolio">Portifolio</a><br>
+    <a target="_blank" href="https://drive.google.com/drive/folders/1ER7n3GHZmokEsQJkf6yFAG3E0dC1oLfq?usp=drive_link">Currículo (png, jpg e pdf)</a><br>
+    <a target="_blank" href="https://drive.google.com/drive/folders/1iK5EJFMF0tOjTNEK88JdfiFZI1oFZmBf?usp=drive_link">Design da página (png, jpg e pdf)</a>
 <h2>Outros projetos 🛠️</h2>
-    <a href="https://github.com/Paulo-Mikhael/academia-landing-page">Landing Page de Academia</a><br>
-    <a href="https://github.com/Paulo-Mikhael/fastask">Fastask - Gerenciador de tarefas</a><br>
-    <a href="https://github.com/Paulo-Mikhael/pagina-unity-2024">[Clone] Pagina da Unity</a><br>
-    <a href="https://github.com/Paulo-Mikhael/pagina-gartic-2024">[Clone] Pagina do Gartic</a>
+    <a target="_blank" href="https://github.com/Paulo-Mikhael/academia-landing-page">Landing Page de Academia</a><br>
+    <a target="_blank" href="https://github.com/Paulo-Mikhael/fastask">Fastask - Gerenciador de tarefas</a><br>
+    <a target="_blank" href="https://github.com/Paulo-Mikhael/pagina-unity-2024">[Clone] Pagina da Unity</a><br>
+    <a target="_blank" href="https://github.com/Paulo-Mikhael/pagina-gartic-2024">[Clone] Pagina do Gartic</a>
