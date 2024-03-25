@@ -14,6 +14,9 @@
     section#comments{
         width: 98.7vw;
     }
+    section#final-questions{
+        width: 98.7vw;
+    }
 }
 @media screen and (max-height:950px){
     main{
